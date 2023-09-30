@@ -33,10 +33,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.dropbox.com/scl/fi/08sj7zf9ac6zdogntb003/Screen-Recording-2023.mov?rlkey=ayfq789cmk2bw0qzw5usa83lh&dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxkM2V2ZnZuaXN5bGptcDFmZTgzdW5paGk0dXBlbm85ank0MTd6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LNSmnk564PQBJ6aLqd/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Giphy 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
