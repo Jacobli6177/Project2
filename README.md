@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://www.dropbox.com/scl/fi/bdw10l50ejkfq7hb6gut5/Kapture-2023-09-30-at-10.26.07.gif?rlkey=qr3tbk1ncbq6zi2a68h200h7r&dl=0)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.dropbox.com/scl/fi/08sj7zf9ac6zdogntb003/Screen-Recording-2023.mov?rlkey=ayfq789cmk2bw0qzw5usa83lh&dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
