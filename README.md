@@ -2,7 +2,10 @@
 
 Submitted by: Jacob Li
 
-This web app: **insert description**
+This web app: 
+• Utilize useState() to create state variables to help control component behavior
+• Use the onClick() event to call a method
+• Create multiple div sections to keep track of different chunks of information
 
 Time spent: 4 hours spent in total
 
@@ -10,7 +13,7 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ X] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
+- [ ] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
 - [ ] **A single card at a time is displayed, only showing one of the components of the information pair**
 - [ ] **A list of card pairs is created**
 - [ ] **Clicking on the card shows the corresponding component of the information pair**
