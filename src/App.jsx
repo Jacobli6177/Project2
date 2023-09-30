@@ -44,7 +44,7 @@ const App = () => {
         <div className="card-set-info">
           <h1>Korean Word Vocabulary</h1>
           <p>Learn some basic Korean words and phrases.</p>
-          <p>Total Cards: {cardSet.length}</p>
+          <p className='card-size'>Total Cards: {cardSet.length}</p>
         </div>
         <div className='card-text'>
         <CardComponent card={cardSet[currentCardIndex]} />

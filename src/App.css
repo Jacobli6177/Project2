@@ -59,12 +59,18 @@ body {
 
 .card-set-info {
   margin-bottom: 20px;
+  font-weight: bold;
   color: black;
 
 }
 .card-set-info p{
   color: bold red;
 }
+.card-size{
+  font-weight: bold;
+  color : blue
+}
+
 
 
 .card {
