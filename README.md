@@ -1,29 +1,26 @@
-# Web Development Project 2 - Korean FlashCard 
+# Web Development Project 3 - *Study cards*
 
-Submitted by: Jacob Li
+Submitted by: **Jacob Li**
 
-This web app: 
-• Utilize useState() to create state variables to help control component behavior
-• Use the onClick() event to call a method
-• Create multiple div sections to keep track of different chunks of information
+This web app: **insert description**
 
-Time spent: 4 hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [X] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [X] **A list of card pairs is created**
-- [X] **Clicking on the card shows the corresponding component of the information pair**
-- [X] **Clicking the next button displays a random new card**
+- [X] **The user can enter their guess in a box before seeing the flipside of the card**
+- [X] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [X] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [X] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [X] Cards contains images in addition to or in place of text
-- [X] Cards have different visual styles such as color based on their category
-  - [X] *visual style implemented*
+- [X] A shuffle button is used to randomize the order of the cards
+- [X] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [X] A counter displays the user's current and longest streak of correct responses
+- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 The following **additional** features are implemented:
 
@@ -31,12 +28,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG83YTU1c2wxdDhrZ3d0dnZoN2g0ZXM3a2Jibm55azlhdmVxa3FucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR9YJ5xph3LURiLKqv/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Giphy 
+GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
